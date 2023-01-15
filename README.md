@@ -5,7 +5,7 @@ Here, we provide the data that support the findings of the paper "Noise-aware Ph
 
 ## Citation
 DOI: [https://doi.org/10.1088/2632-2153/acb1f0](https://doi.org/10.1088/2632-2153/acb1f0)  
-Thanasutives et al 2023 *Mach. Learn.: Sci. Technol.*
+Thanasutives et al. 2023 *Mach. Learn.: Sci. Technol.*
 
 Bibtex:  
 
