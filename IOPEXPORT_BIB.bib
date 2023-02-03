@@ -1,0 +1,14 @@
+@article{Thanasutives_2023,
+doi = {10.1088/2632-2153/acb1f0},
+url = {https://dx.doi.org/10.1088/2632-2153/acb1f0},
+year = {2023},
+month = {feb},
+publisher = {IOP Publishing},
+volume = {4},
+number = {1},
+pages = {015009},
+author = {Pongpisit Thanasutives and Takashi Morita and Masayuki Numao and Ken-ichi Fukui},
+title = {Noise-aware physics-informed machine learning for robust PDE discovery},
+journal = {Machine Learning: Science and Technology},
+abstract = {This work is concerned with discovering the governing partial differential equation (PDE) of a physical system. Existing methods have demonstrated the PDE identification from finite observations but failed to maintain satisfying results against noisy data, partly owing to suboptimal estimated derivatives and found PDE coefficients. We address the issues by introducing a noise-aware physics-informed machine learning framework to discover the governing PDE from data following arbitrary distributions. We propose training a couple of neural networks, namely solver and preselector, in a multi-task learning paradigm, which yields important scores of basis candidates that constitute the hidden physical constraint. After they are jointly trained, the solver network estimates potential candidates, e.g. partial derivatives, for the sparse regression to initially unveil the most likely parsimonious PDE, decided according to information criterion. Denoising physics-informed neural networks, based on discrete Fourier transform, is proposed to deliver the optimal PDE coefficients respecting the noise-reduced variables. Extensive experiments on five canonical PDEs affirm that the proposed framework presents a robust and interpretable approach for PDE discovery, leading to a new automatic PDE selection algorithm established on minimization of the information criterion decay rate.}
+}
