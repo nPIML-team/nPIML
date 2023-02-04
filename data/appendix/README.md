@@ -4,7 +4,7 @@ Here we store the data for the nonlinear diffusion PDE described in Appendix. Th
 2. 2D Reaction-Diffusion PDE: `reaction_diffusion_2d_big.mat`
 3. 3D Reaction-Diffusion PDE: `reaction_diffusion_3d_{128, 64, 32}.mat`. 128, 64 and 32 denote the different numbers of points in the three spatial directions.
 
--
+--------------------
 The specification of the "py3.7" conda environment used *only to* produce the results in the appendix section is given in [env_spec](env_spec/).
 
 The outputs of the following commands are stored.  

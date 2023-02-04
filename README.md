@@ -30,24 +30,24 @@ Please access [OneDrive](https://chula-my.sharepoint.com/:f:/g/personal/pongpisi
 
 **Concerning the main text** >>> nPIML framework consists of the three main steps.  
 [Step 1]  
-KdV: `ls Multi-task-Physics-informed-neural-networks/inverse_small_KdV/Hyperparameter\ study-approx_l0-reproduced-for-pub*.ipynb`  
-KS: `ls kuramoto-sivashinsky-solver/ks_selector*.py`  
-QHO: `ls kuramoto-sivashinsky-solver/qho.py`  
-NLS: `ls kuramoto-sivashinsky-solver/nls.py`
+- KdV: `ls Multi-task-Physics-informed-neural-networks/inverse_small_KdV/Hyperparameter\ study-approx_l0-reproduced-for-pub*.ipynb`  
+- KS: `ls kuramoto-sivashinsky-solver/ks_selector*.py`  
+- QHO: `ls kuramoto-sivashinsky-solver/qho.py`  
+- NLS: `ls kuramoto-sivashinsky-solver/nls.py`
 
 [Step 2] Mostly in `Multi-task-Physics-informed-neural-networks/`  
-KdV: `ls inverse_small_KdV/Find\ lambda_str*.ipynb`  
-KS: `ls inverse_small_KS2/Find\ lambda_str*.ipynb`  
-QHO: `ls inverse_qho/Find\ lambda_str*ipynb`  
-NLS: `ls inverse_NLS/Find\ lambda_str*.ipynb`
+- KdV: `ls inverse_small_KdV/Find\ lambda_str*.ipynb`  
+- KS: `ls inverse_small_KS2/Find\ lambda_str*.ipynb`  
+- QHO: `ls inverse_qho/Find\ lambda_str*ipynb`  
+- NLS: `ls inverse_NLS/Find\ lambda_str*.ipynb`
 
 Visit [https://github.com/MathBioCU/WSINDy_PDE](https://github.com/MathBioCU/WSINDy_PDE/) or try running `research/WSINDy_PDE_JCP/wsindy_pde_script_nPIML.m` (MATLAB required) to enable the extension to the convolutional weak formulation (CWF).
 
 [Step 3] Mostly in `kuramoto-sivashinsky-solver/`  
-KdV (a recommended demo): `ls kdv_pinn_2000_pub.py kdv_pinn_2000_pub_20220517.py`  
-KS: `ls deephpm_KS_chaotic_learned_coeffs_*_new.py deephpm_KS_chaotic_learned_coeffs_more_noise.py` 
-QHO: `ls qho_pinn_learned_coeffs_20220613.py`  
-NLS: `nls_pinn_learned_coeffs_20220614.py`
+- KdV (a recommended demo): `ls kdv_pinn_2000_pub.py kdv_pinn_2000_pub_20220517.py`  
+- KS: `ls deephpm_KS_chaotic_learned_coeffs_*_new.py deephpm_KS_chaotic_learned_coeffs_more_noise.py` 
+- QHO: `ls qho_pinn_learned_coeffs_20220613.py`  
+- NLS: `nls_pinn_learned_coeffs_20220614.py`
 
 Code regarding all the three steps of Burgers' PDE example resides in `Multi-task-Physics-informed-neural-networks/inverse_burgers/`.  
 Step 1: `ls abess-approx_l0-gammaSwish-clean-DEMO-kappa-20220429\ \(pub\).ipynb abess-approx_l0-gammaSwish-clean-DEMO-noise-tolerence*.ipynb`  
