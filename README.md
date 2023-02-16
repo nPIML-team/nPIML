@@ -66,5 +66,6 @@ Specification of the conda environment (namely "py3.7") used *only for* producin
 Please be aware that an act of using external libraries is under their licenses provided in the associated directories.
 
 ## Notes
-Any dubiousness, questions or requests may be forwarded to the corresponding author.  
-Feel free to create an issue on this repository if you have trouble downloading the source codes.
+- In this work, hidden weights are initialized usually by either the uniform
+Xavier or default function PyTorch provides for building a [linear layer](https://github.com/pytorch/pytorch/blob/master/torch/nn/modules/linear.py).  
+- Any dubiousness, questions or requests may be forwarded to the corresponding author. Feel free to create an issue on this repository if you have trouble downloading the source codes.
