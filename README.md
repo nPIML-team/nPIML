@@ -50,7 +50,7 @@ Visit [https://github.com/MathBioCU/WSINDy_PDE](https://github.com/MathBioCU/WSI
 - NLS: `nls_pinn_learned_coeffs_20220614.py`
 
 Code regarding all the three steps of Burgers' PDE example resides in `Multi-task-Physics-informed-neural-networks/inverse_burgers/`.  
-Step 1: `ls abess-approx_l0-gammaSwish-clean-DEMO-kappa-20220429\ \(pub\).ipynb abess-approx_l0-gammaSwish-clean-DEMO-noise-tolerence*.ipynb`  
+Step 1: `ls abess-approx_l0-gammaSwish-clean-DEMO-kappa-20220429\ \(pub\)*.ipynb abess-approx_l0-gammaSwish-clean-DEMO-noise-tolerence*.ipynb`  
 Step 2: `ls Find\ lambda_str*.ipynb`  
 Step 3: `ls Final\ PINN-wiener-V2-less-samples-20220627-newpub*.ipynb Final\ PINN-Visualize\ noise\ \(freezed\ success\)-pub-reproduced20221204.ipynb`. The last notebook is for the denoising visualization. You may start exploring the notebooks for Burgers' PDE discovery by installing `torch==1.11.0`.
 
