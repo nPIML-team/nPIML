@@ -26,7 +26,7 @@ Bibtex:
 ```
 
 ## Open Research Codebase
-Please access [OneDrive](https://chula-my.sharepoint.com/:f:/g/personal/pongpisit_t_alumni_chula_ac_th/EqLojgZtNzNJoGZIcJLqTjkBv4VYXoUueFYy8KzGkwzlpA?e=IXAmKX) (password: nPIML) or [GoogleDrive](https://drive.google.com/drive/folders/1hlsO6BuGa4lL1lruBDT-Z6jXWxuFLCZG?usp=share_link). Then you can extract the zip file containing the code you are looking for. The extracted directories are supposed to be at `~/Desktop/`. The related primary directories in `research.zip` include but are not limited to `pysindy`, `parametric-discovery`, `l0bnb_algos`, `abess`, `WSINDy_PDE_JCP`, `SciencePlots` and `PDE-FIND*`. Note that all the data are included already in this codebase.
+Please access [OneDrive](https://chula-my.sharepoint.com/:f:/g/personal/pongpisit_t_alumni_chula_ac_th/EqLojgZtNzNJoGZIcJLqTjkBv4VYXoUueFYy8KzGkwzlpA?e=IXAmKX) (password: nPIML) or [GoogleDrive](https://drive.google.com/drive/folders/1hlsO6BuGa4lL1lruBDT-Z6jXWxuFLCZG?usp=share_link). Then you can extract the zip file containing the code you are looking for. The extracted directories are supposed to be at `~/Desktop/`. The related primary directories in `research.zip` include but are not limited to `pysindy`, `parametric-discovery`, `l0bnb_algos`, `abess`, `WSINDy_PDE_JCP`, `SciencePlots` (for visualization) and `PDE-FIND*`. Note that all the data are included already in this codebase.
 
 **Concerning the main text** >>> nPIML framework consists of the three main steps.  
 [Step 1]  
