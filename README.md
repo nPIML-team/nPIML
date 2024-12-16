@@ -69,3 +69,4 @@ Please be aware that an act of using external libraries is under their licenses 
 - In this work, hidden weights are initialized usually by either the uniform
 Xavier or default function PyTorch provides for building a linear layer.  
 - Any dubiousness, questions or requests may be forwarded to the corresponding author. Feel free to create an issue on this repository if you have trouble downloading the source codes.
+- Erratum: "the preselector networks" in Figure 15 should be "the projection networks."
